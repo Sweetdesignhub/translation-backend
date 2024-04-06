@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "liquid-champion-419016",
+  "private_key_id": "2bd5c951eb2ab7418a19b42b64f9596d5cfd9449",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDaEyCI48ocoeJj\n4YvzrgkIn+1O3Wzf+7AXpsDiMrrkYwIp2V5HZnxZFY28T1RSRFIsWDvdhBWtjLAP\ne73Xcdlm/3JPRYoq6lhHrat44yzDzR7ckvZXaoO9nuEe2NJH6moZTBVn7mx2ZwY2\nQfUNR7yfCSVwAtXeGxBCcc51Lv04zyA08Su3tcB7XgylGi5JGyl6GzDHOHyIFMR5\nwenIdg3BHXNM4PQ2XHVUUz6YrZzwNEwvkF9Jbv95qBP43xtgoLBvs5/zRl53zHHK\nee0FPDQ4TjIXkg8h8L2bPtn+6GHFfByN89dO3YAzoiKBennUv3jo5S2pAMFm+Lr2\ncA/CMhK/AgMBAAECggEAKeUbzoCojwigtBycJPPt41zKG+kZJgy1301XZ/1j/0Vw\nIHcUkDYFtJ2Z7a/13JooiUFoOt3Jxl4tYsQcjBvgrtNrdARBj44W6KpaM269Zl5t\nS+Xl8pRRe+feiu0PtOY5fOOrhxx8dODFBj50pBkAiTMaIKNC0Bk17fXsOoIM/tEd\nJHu47Xos9TUHW1EEdevcVmntu2aGHSajyO/wRuY+s2KGmH8AuZE7gLLPn998Twsp\nmOsa2qfsNXL5P4TzqTq1TjfNOHbNYVXeWUJGcpRQ01TrI7yNHtvWRfyr4Yt1O1zo\nvQJ9YMqwwzimey+xsDDhJ7sTc5LAFj1H2QOWSjipAQKBgQDzmw+4tj7AOW/HlFsC\nzrpngKgtHELezJlHgSaVH4Ud3vKIloRXnb6K+qA/CLgFNKCsTctMYbmmCPV+B+73\nWTLn2CLAj0h3JBX0YlR7tA1OZyyMH+ztsK6mIbQ/1cFRagnfyncJjHbaSXPOx+6b\n76Dt+SeUYX8FUKaf/OyYjEW1vwKBgQDlK4b1wG2mNLwrIlO3L5ZhU7tLX/eG8ibv\ngRDUXQIGVAbTl/EgydK1ReYbvWahEJvlqZN3ajqnZhSGVfzqjgELB+w4C9vepGDN\nwmlCKxgytmjArnakgmjk5olVheTLME6u9EgVRjT2vUm2EVHHTr8sxelPf66i7PI5\nbVxmczzjAQKBgB/v5E/DFNb+sLjpqkTj9Ww8YdAINHwhNrc5J2XFjB4ubH2bvh3+\ngEyYLwoUioukKqxsRortBPnPkt/DCoFDIHlkzKmSH13/TSGNAqZ1JIly3VRBmz5O\nO5dsM8VqsL2LuV+tm42U7MARgS1K6O1orSCF2bqKTazUtgOjlSEqwrjhAoGAdpgW\n6Hhjhf6GXiAOiJ8EyGsnYrNQCjKoOYtmJS/Yi2PSgI+BxkELXKnGkhZq1PEebDRc\nTxDXN6fY+UfocY15Nrcr5Dkm2Enimrh/9jEM/blt7kCavzmJhONUsMBwjUH7hgh+\ngRvq7sE4MxM1adnzjv0AZxahTkkmdNeGWLJMEQECgYEAwEo4nd9V3nC2bZbiDOmz\npUZ2jov/BiOtEfszylHIcm050c7C8TRe/NYp60JdsNTKatuoADvZseOSvw3tHzrL\n1igEfOMESZKA8s10EdRZMsMginvJFbLHqwAfSenNsUqGsNYtcQD99A7d2DtQ+8Sl\n5WXb7+V/eLHMVyWOox+rrvs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-translate@liquid-champion-419016.iam.gserviceaccount.com",
+  "client_id": "100039758196708775212",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-translate%40liquid-champion-419016.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
